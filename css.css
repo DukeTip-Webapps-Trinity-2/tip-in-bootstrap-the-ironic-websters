@@ -1,0 +1,22 @@
+
+body{
+font-family:"Markazi Text";
+background-color: lightgray;
+} 
+.caption{
+font-size: 25px;
+color: black;
+font-family:"Markazi Text"
+}
+
+.carousel-inner{
+height:10%;
+width:100%;
+}
+
+.para{
+font-size: 25px;
+font-family: "Markazi Text";
+padding: 10px;
+}
+/*DO SET HOIK!*/
