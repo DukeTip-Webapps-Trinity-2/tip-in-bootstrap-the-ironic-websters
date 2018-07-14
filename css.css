@@ -1,8 +1,5 @@
 
-body{
-font-family:"Markazi Text";
-background-color: lightgray;
-} 
+/*   */
 .caption{
 font-size: 25px;
 color: black;
@@ -19,4 +16,81 @@ font-size: 25px;
 font-family: "Markazi Text";
 padding: 10px;
 }
-/*DO SET HOIK!*/
+
+img{
+    margin: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` ince this is the default in Bootstrap*/
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { 
+.huh{
+font-size: 20px        
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+.huh{
+    font-size: 30px
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+.huh{
+        font-size: 40px
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.huh{
+        font-size: 40px
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
